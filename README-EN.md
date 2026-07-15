@@ -45,7 +45,7 @@ Photography, drawing, and music inform the work.
 
 </details>
 
-<hr>
+<img src="./assets/divider.svg" alt="" width="100%" height="1">
 
 <details>
 <summary><h2>Projects</h2></summary>
@@ -76,7 +76,7 @@ Photography, drawing, and music inform the work.
 
 </details>
 
-<hr>
+<img src="./assets/divider.svg" alt="" width="100%" height="1">
 
 ## Trace
 

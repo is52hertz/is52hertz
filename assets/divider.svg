@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1" preserveAspectRatio="none" aria-hidden="true">
+  <style>
+    .divider { stroke-opacity: 1; }
+    @media (prefers-color-scheme: dark) {
+      .divider { stroke-opacity: 0.18; }
+    }
+  </style>
+  <path class="divider" d="M0 .5H1200" fill="none" stroke="#E4DBCC"/>
+</svg>

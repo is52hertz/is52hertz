@@ -44,7 +44,7 @@
 
 </details>
 
-<hr>
+<img src="./assets/divider.svg" alt="" width="100%" height="1">
 
 <details>
 <summary><h2>项目</h2></summary>
@@ -75,7 +75,7 @@
 
 </details>
 
-<hr>
+<img src="./assets/divider.svg" alt="" width="100%" height="1">
 
 ## 轨迹
 
