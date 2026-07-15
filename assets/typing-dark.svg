@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 64" role="img" aria-labelledby="title desc">
+  <title id="title">Let’s make the world.</title>
+  <desc id="desc">The phrase is revealed with a restrained typing animation.</desc>
+  <style>
+    .message {
+      fill: #FAF9F6;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 24px;
+      font-weight: 600;
+      letter-spacing: .2px;
+    }
+    .reveal { animation: type 5s steps(21, end) infinite; }
+    .caret {
+      fill: #D97756;
+      animation: caret-position 5s steps(21, end) infinite, blink .75s step-end infinite;
+    }
+    @keyframes type {
+      0%, 12% { width: 0; }
+      58%, 86% { width: 304px; }
+      96%, 100% { width: 0; }
+    }
+    @keyframes caret-position {
+      0%, 12% { transform: translateX(-304px); }
+      58%, 86% { transform: translateX(0); }
+      96%, 100% { transform: translateX(-304px); }
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .reveal { width: 304px; animation: none; }
+      .caret { display: none; }
+    }
+  </style>
+  <defs>
+    <clipPath id="typing-window">
+      <rect class="reveal" x="142" y="8" width="304" height="48"/>
+    </clipPath>
+  </defs>
+  <text class="message" x="142" y="41" clip-path="url(#typing-window)">Let’s make the world.</text>
+  <rect class="caret" x="446" y="14" width="3" height="34" rx="1.5"/>
+</svg>
