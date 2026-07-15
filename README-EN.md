@@ -45,6 +45,8 @@ Photography, drawing, and music inform the work.
 
 </details>
 
+<hr>
+
 <details>
 <summary><h2>Projects</h2></summary>
 
@@ -73,6 +75,8 @@ Photography, drawing, and music inform the work.
 </p>
 
 </details>
+
+<hr>
 
 ## Trace
 
