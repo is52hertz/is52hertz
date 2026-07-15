@@ -27,7 +27,7 @@ My practice spans front-end implementation, UI/UX, and graphic design. Form and 
 Photography, drawing, and music inform the work.
 
 <details>
-<summary><h2>Creative tools</h2><img src="./assets/divider.svg" alt="" width="100%" height="1"></summary>
+<summary><h2>Creative tools</h2><img src="./assets/divider.svg" alt="" width="100%" height="1" align="top"></summary>
 
 *Make it ReaL.*
 
@@ -46,7 +46,7 @@ Photography, drawing, and music inform the work.
 </details>
 
 <details>
-<summary><h2>Projects</h2><img src="./assets/divider.svg" alt="" width="100%" height="1"></summary>
+<summary><h2>Projects</h2><img src="./assets/divider.svg" alt="" width="100%" height="1" align="top"></summary>
 
 <p>
   <strong><a href="https://github.com/is52hertz/claude-quota">claude-quota</a></strong><br>
