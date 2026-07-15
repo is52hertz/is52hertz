@@ -1,3 +1,5 @@
+<div align="center">
+
 <p align="center">
   简体中文&nbsp;&nbsp;·&nbsp;&nbsp;<a href="./README-EN.md">English</a>
 </p>
@@ -16,21 +18,16 @@
   </picture>
 </div>
 
-# 你好，我是 Teethe（无牙）
+# 哈喽，这里是 Teethe（无牙）
 
-**一名仍在成长的学生，也是一位独立艺术创作者。**
+**学生/独立艺术创作者。**
 
 我的创作更偏向前端体验、UI/UX 与平面设计。我从视觉和体验出发，再借助 Vibe Coding，以及 Swift、Python、JavaScript / React，把想法做成真实可用的东西。
+同时，我也热爱摄影、绘画和音乐，并将其理念融入我的作品。
 
-## 关于这个名字
+## 创作工具
 
-我曾用 `52hertz` 这个名字，像一段独自穿过深海的频率。如今，我更愿意叫自己 `Teethe`。
-
-`Teethe` 意为乳牙开始萌出，也让我想到一副仍在生长的獠牙——以獠牙的姿态面对困难，在成长中保持无畏。
-
-## 创作与工具
-
-> 视觉与体验决定方向，代码让它成为现实。
+*Make it ReaL.*
 
 **设计 / Design**
 
@@ -44,21 +41,33 @@
 
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-141413?style=flat-square) ![AI-assisted Development](https://img.shields.io/badge/AI--assisted_Development-141413?style=flat-square)
 
-## 精选作品
+## 项目
 
-- **[claude-quota](https://github.com/is52hertz/claude-quota)** — 一个在 macOS 本地查看 Claude Code 账户额度与限额窗口的 CLI，不记录 prompt 或 response。<br><sub>Rust · macOS · CLI</sub>
+<p>
+  <strong><a href="https://github.com/is52hertz/claude-quota">claude-quota</a></strong><br>
+  一个在 macOS 本地查看 Claude Code 账户额度与限额窗口的 CLI，不记录 prompt 或 response。<br>
+  <sub>Rust · macOS · CLI</sub>
+</p>
 
-- **[Exporter](https://github.com/is52hertz/Exporter)** — 一款只读 iOS App，将用户授权的 Apple HealthKit 健康与运动数据导出为版本化、对 LLM 友好的 JSON。<br><sub>Swift · SwiftUI · HealthKit</sub>
+<p>
+  <strong><a href="https://github.com/is52hertz/Exporter">Exporter</a></strong><br>
+  一款只读 iOS App，将用户授权的 Apple HealthKit 健康与运动数据导出为版本化、对 LLM 友好的 JSON。<br>
+  <sub>Swift · SwiftUI · HealthKit</sub>
+</p>
 
-- **[BlackoutSignal](https://github.com/is52hertz/BlackoutSignal)** — 一款面向 Apple Silicon Mac 的菜单栏工具：让屏幕变黑但保持视频信号，避免外接显示器出现“无输入”画面。<br><sub>Swift · macOS · DDC/CI</sub>
+<p>
+  <strong><a href="https://github.com/is52hertz/BlackoutSignal">BlackoutSignal</a></strong><br>
+  一款面向 Apple Silicon Mac 的菜单栏工具：让屏幕变黑但保持视频信号，避免外接显示器出现“无输入”画面。<br>
+  <sub>Swift · macOS · DDC/CI</sub>
+</p>
 
-- **[Relay](https://github.com/is52hertz/Relay)** — 一款原生 macOS 全局应用切换器，用基于工作场景的 Profiles 管理多组快捷键，并根据目标应用的当前状态执行启动、聚焦、隐藏或返回上一应用。<br><sub>Swift · SwiftUI · AppKit</sub>
+<p>
+  <strong><a href="https://github.com/is52hertz/Relay">Relay</a></strong><br>
+  一款原生 macOS 全局应用切换器，用基于工作场景的 Profiles 管理多组快捷键，并根据目标应用的当前状态执行启动、聚焦、隐藏或返回上一应用。<br>
+  <sub>Swift · SwiftUI · AppKit</sub>
+</p>
 
-## 屏幕之外
-
-我持续学习平面设计，也喜欢绘画、音乐与摄影。它们不断影响我对颜色、节奏、构图和情绪的理解。
-
-## 生长留下的轨迹
+## 轨迹
 
 <div align="center">
   <picture>
@@ -69,8 +78,10 @@
 
 ## 找到我
 
-如果你也在把设计、技术与个人表达放在一起，欢迎来聊。
+如果你也在把设计、技术与个人表达放在一起，也想 Make the world，欢迎来聊。
 
 [![Website](https://img.shields.io/badge/is52hertz.cn-141413?style=flat-square&logo=safari&logoColor=D97756)](https://is52hertz.cn) [![Email](https://img.shields.io/badge/is.52hertz%40gmail.com-141413?style=flat-square&logo=gmail&logoColor=D97756)](mailto:is.52hertz@gmail.com) [![Bilibili](https://img.shields.io/badge/Bilibili-522205144-141413?style=flat-square&logo=bilibili&logoColor=D97756)](https://space.bilibili.com/522205144) [![X](https://img.shields.io/badge/%40TeetheDec-141413?style=flat-square&logo=x&logoColor=D97756)](https://x.com/TeetheDec)
 
 <p align="center"><sub>Still learning. Still making. Still growing teeth.</sub></p>
+
+</div>
