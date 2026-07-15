@@ -26,7 +26,7 @@
 同时，我也热爱摄影、绘画和音乐，并将其理念融入我的作品。
 
 <details>
-<summary><h2>创作工具</h2></summary>
+<summary><h2>创作工具</h2><img src="./assets/divider.svg" alt="" width="100%" height="1"></summary>
 
 *Make it ReaL.*
 
@@ -44,10 +44,8 @@
 
 </details>
 
-<img src="./assets/divider.svg" alt="" width="100%" height="1">
-
 <details>
-<summary><h2>项目</h2></summary>
+<summary><h2>项目</h2><img src="./assets/divider.svg" alt="" width="100%" height="1"></summary>
 
 <p>
   <strong><a href="https://github.com/is52hertz/claude-quota">claude-quota</a></strong><br>
@@ -74,8 +72,6 @@
 </p>
 
 </details>
-
-<img src="./assets/divider.svg" alt="" width="100%" height="1">
 
 ## 轨迹
 
