@@ -26,7 +26,8 @@ My practice spans front-end implementation, UI/UX, and graphic design. Form and 
 
 Photography, drawing, and music inform the work.
 
-## Creative tools
+<details>
+<summary><h2>Creative tools</h2></summary>
 
 *Make it ReaL.*
 
@@ -42,7 +43,10 @@ Photography, drawing, and music inform the work.
 
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-141413?style=flat-square) ![AI-assisted Development](https://img.shields.io/badge/AI--assisted_Development-141413?style=flat-square)
 
-## Projects
+</details>
+
+<details>
+<summary><h2>Projects</h2></summary>
 
 <p>
   <strong><a href="https://github.com/is52hertz/claude-quota">claude-quota</a></strong><br>
@@ -67,6 +71,8 @@ Photography, drawing, and music inform the work.
   A native macOS application switcher. Workflow-specific Profiles organize global hotkeys; target state governs launch, focus, hide, and return-to-previous behavior.<br>
   <sub>Swift · SwiftUI · AppKit</sub>
 </p>
+
+</details>
 
 ## Trace
 

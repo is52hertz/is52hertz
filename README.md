@@ -25,7 +25,8 @@
 我的创作更偏向前端体验、UI/UX 与平面设计。我从视觉和体验出发，再借助 Vibe Coding，以及 Swift、Python、JavaScript / React，把想法做成真实可用的东西。
 同时，我也热爱摄影、绘画和音乐，并将其理念融入我的作品。
 
-## 创作工具
+<details>
+<summary><h2>创作工具</h2></summary>
 
 *Make it ReaL.*
 
@@ -41,7 +42,10 @@
 
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-141413?style=flat-square) ![AI-assisted Development](https://img.shields.io/badge/AI--assisted_Development-141413?style=flat-square)
 
-## 项目
+</details>
+
+<details>
+<summary><h2>项目</h2></summary>
 
 <p>
   <strong><a href="https://github.com/is52hertz/claude-quota">claude-quota</a></strong><br>
@@ -66,6 +70,8 @@
   一款原生 macOS 全局应用切换器，用基于工作场景的 Profiles 管理多组快捷键，并根据目标应用的当前状态执行启动、聚焦、隐藏或返回上一应用。<br>
   <sub>Swift · SwiftUI · AppKit</sub>
 </p>
+
+</details>
 
 ## 轨迹
 
