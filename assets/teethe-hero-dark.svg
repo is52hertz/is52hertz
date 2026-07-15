@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Teethe — 无牙 · 正在成长</title>
+  <title id="title">Teethe — 无牙 · 獠牙是也</title>
   <desc id="desc">A quiet signal grows into an asymmetric fang, representing a student and independent creator growing through difficulty.</desc>
 
   <rect x="1" y="1" width="1198" height="358" rx="28" fill="#141413" stroke="#E4DBCC" stroke-opacity="0.18" stroke-width="2"/>
@@ -8,7 +8,7 @@
     <circle cx="80" cy="71" r="6" fill="#D97756"/>
     <text x="100" y="78" fill="#E4DBCC" font-size="18" font-weight="650" letter-spacing="2.8">INDEPENDENT ARTIST · STUDENT</text>
     <text x="74" y="190" fill="#FAF9F6" font-size="104" font-weight="780" letter-spacing="-4">Teethe</text>
-    <text x="80" y="250" fill="#FAF9F6" font-size="34" font-weight="650" letter-spacing="2">无牙 · 正在成长</text>
+    <text x="80" y="250" fill="#FAF9F6" font-size="34" font-weight="650" letter-spacing="2">无牙 · 獠牙是也</text>
   </g>
 
   <g fill="none" stroke-linecap="round" stroke-linejoin="round">

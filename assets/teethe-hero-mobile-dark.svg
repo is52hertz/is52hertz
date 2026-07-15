@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-labelledby="title desc">
-  <title id="title">Teethe — 无牙 · 正在成长</title>
+  <title id="title">Teethe — 无牙 · 獠牙是也</title>
   <desc id="desc">A quiet signal grows into an asymmetric fang, representing growth through difficulty.</desc>
 
   <rect x="1" y="1" width="718" height="438" rx="26" fill="#141413" stroke="#E4DBCC" stroke-opacity="0.18" stroke-width="2"/>
   <circle cx="60" cy="52" r="7" fill="#D97756"/>
-  <path d="M82 52 H172" stroke="#E4DBCC" stroke-width="5" stroke-linecap="round" opacity="0.45"/>
+  <text x="84" y="59" fill="#E4DBCC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="650" letter-spacing="2.8">INDEPENDENT ARTIST · STUDENT</text>
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans SC', sans-serif">
     <text x="52" y="158" fill="#FAF9F6" font-size="112" font-weight="780" letter-spacing="-4">Teethe</text>
-    <text x="58" y="218" fill="#FAF9F6" font-size="34" font-weight="650" letter-spacing="2">无牙 · 正在成长</text>
+    <text x="58" y="218" fill="#FAF9F6" font-size="34" font-weight="650" letter-spacing="2">无牙 · 獠牙是也</text>
   </g>
 
   <g fill="none" stroke-linecap="round" stroke-linejoin="round">
